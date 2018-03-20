@@ -2,7 +2,7 @@
 
 # Software Engineering Essay Proposal
 
-## My essay question: When should you use Vertex animations over Skeletal animations in games
+## My essay question: Trade-offs between Perception of Quality and Architectural Maintainability: When should Game Developers use Vertex animations over Skeletal Animations?
 
 ## How I will answer the question:
 I will be answering this question by researching the different ways in which vertex animation has been used over skeletal animation and analyzing why
@@ -25,8 +25,11 @@ knowing what the player thinks about the animation style is a good indication on
 - 2D vertex animations
 - processing cost of each animation type
 
+Notes:
+
 ## references:
 - https://www.youtube.com/watch?v=l9NX06mvp2E The art of Abzu
+- https://www.youtube.com/watch?v=7Fl3so0Z5Tc The Inner Workings of Fortnite's Shader-Based Procedural Animations
 - https://www.youtube.com/watch?v=ZrCdnTbMGec How Did They Do That - Crash Bandicoot's Cartoony Animation
 - http://eprints.bournemouth.ac.uk/22568/1/grass.pdf Increasing realism of animated grass in real-time game environments
 - http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7473418/ Research on Vertex Deformation Algorithms of Character Animation Model
@@ -34,3 +37,7 @@ knowing what the player thinks about the animation style is a good indication on
 - https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=364375 Animating prairies in real-time
 - https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=545285 Medial-based vertex deformation
 - http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5360906/ Water simulation based on HLSL
+- http://www.nvidia.co.uk/object/feature_vertexshader.html Nvidea vertex shader definition and explanation
+- https://bib.irb.hr/datoteka/890911.Final_0036473606_56.pdf paper on the technicalities of skeletal animation systems
+- https://learnopengl.com/Getting-started/Shaders shaders in OpenGL explained
+- https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?doid=545261.545288 Interactive animation of ocean waves
