@@ -23,7 +23,7 @@ knowing what the player thinks about the animation style is a good indication on
 - the positives and negatives of each animation type
 - how the animations could be used together
 - 2D vertex animations
-- processing cost of each animation type
+- processing cost of each animation type 
 
 Notes:
 
